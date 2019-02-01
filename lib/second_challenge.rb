@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-second_challenge.keys.values
+second_challenge
   
 
 end
