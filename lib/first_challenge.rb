@@ -14,7 +14,7 @@ def first_challenge
   }
 
   #your code here
-contacts["Jon Snow"][:favorte_ice_cream_flavors] << "mint chip"
+contacts["Jon Snow"][:favorite_ice_cream_flavors] << "mint chip"
 
   #remember to return your newly altered contacts hash!
   contacts
