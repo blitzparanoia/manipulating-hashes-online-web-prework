@@ -11,5 +11,3 @@ groceries.values
   
 
 end
-
-second_challenge
