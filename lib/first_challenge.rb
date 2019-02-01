@@ -3,7 +3,7 @@ def first_challenge
     "Jon Snow" => {
       name: "Jon",
       email: "jon_snow@thewall.we", 
-      favorite_icecream_flavors: ["chocolate", "vanilla", "mint chip"],
+      favorite_icecream_flavors: ["chocolate", "vanilla"],
       knows: nil
     },
     "Freddy Mercury" => {
@@ -15,7 +15,6 @@ def first_challenge
 
   #your code here
 contacts["Jon Snow"][:favorte_ice_cream_flavors] << "mint chip"
-contacts["Jon Snow"][:address] = "The Lord Commander's Rooms, The Wall, Westeros"
 
   #remember to return your newly altered contacts hash!
   contacts
